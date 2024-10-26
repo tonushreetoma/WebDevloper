@@ -30,6 +30,7 @@ nav{
     
 align-items: center;
 justify-content: space-between;
+margin: 0 200px;
 }
 web-tittle{
     color: #181818;
@@ -49,4 +50,21 @@ nav li{
 nav a {
     text-decoration: none;
     color: #D9D9D9;
+}
+
+/* header related styles */
+
+.header{
+    background-color: #FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+
+}
+
+
+ .profile-picture{
+    width: 500px;
 }
