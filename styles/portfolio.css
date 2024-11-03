@@ -105,7 +105,21 @@ nav a {
     max-width: 500px;
 }
 
-/* main section styles */                       
+/* main section styles */   
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about-info-container{
+
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    align-items: center;
+}
 
 /* about section style */
 
