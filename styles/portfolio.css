@@ -129,3 +129,14 @@ main {
     background: #FFF8F3;
     margin: 130px;
 }
+
+.sec-tittle{
+   justify-content: center;
+}
+#what-i-do-des{
+    padding: 30px  150px;
+
+}
+.skills-container{
+    display: flex;
+}
